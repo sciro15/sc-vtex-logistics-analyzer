@@ -1,0 +1,1002 @@
+[
+  {
+    "orderId": "1407443233103-01",
+    "creationDate": "2024-01-15T10:30:25.000Z",
+    "invoicedDate": "2024-01-16T14:20:15.000Z",
+    "status": "invoiced",
+    "origin": "Marketplace",
+    "totalValue": 125000,
+    "items": [
+      {
+        "id": "ITM-001-BOG-2024"
+      }
+    ],
+    "shippingData": {
+      "city": "Bogotá"
+    },
+    "logisticsInfo": [
+      {
+        "selectedSla": "express-delivery",
+        "matchedWarehouseId": "warehouse-bog-001",
+        "availableSlas": [
+          {
+            "id": "express-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-bog-001"
+              }
+            ]
+          },
+          {
+            "id": "standard-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-bog-002"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orderId": "1407443233104-02",
+    "creationDate": "2024-01-12T08:15:30.000Z",
+    "invoicedDate": "2024-01-13T11:45:20.000Z",
+    "status": "invoiced",
+    "origin": "Marketplace",
+    "totalValue": 89500,
+    "items": [
+      {
+        "id": "ITM-002-MED-2024"
+      }
+    ],
+    "shippingData": {
+      "city": "Medellín"
+    },
+    "logisticsInfo": [
+      {
+        "selectedSla": "standard-delivery",
+        "matchedWarehouseId": "warehouse-med-001",
+        "availableSlas": [
+          {
+            "id": "express-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-med-001"
+              }
+            ]
+          },
+          {
+            "id": "standard-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-med-002"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orderId": "1407443233105-03",
+    "creationDate": "2024-01-20T16:22:10.000Z",
+    "invoicedDate": "2024-01-21T09:30:45.000Z",
+    "status": "invoiced",
+    "origin": "Fullfillment",
+    "totalValue": 156780,
+    "items": [
+      {
+        "id": "ITM-003-CAL-2024"
+      }
+    ],
+    "shippingData": {
+      "city": "Cali"
+    },
+    "logisticsInfo": [
+      {
+        "selectedSla": "express-delivery",
+        "matchedWarehouseId": "warehouse-cal-001",
+        "availableSlas": [
+          {
+            "id": "express-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-cal-001"
+              }
+            ]
+          },
+          {
+            "id": "standard-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-cal-002"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orderId": "1407443233106-04",
+    "creationDate": "2024-01-05T13:45:15.000Z",
+    "invoicedDate": "2024-01-06T16:20:30.000Z",
+    "status": "invoiced",
+    "origin": "Marketplace",
+    "totalValue": 67890,
+    "items": [
+      {
+        "id": "ITM-004-BAR-2024"
+      }
+    ],
+    "shippingData": {
+      "city": "Barranquilla"
+    },
+    "logisticsInfo": [
+      {
+        "selectedSla": "standard-delivery",
+        "matchedWarehouseId": "warehouse-bar-001",
+        "availableSlas": [
+          {
+            "id": "express-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-bar-001"
+              }
+            ]
+          },
+          {
+            "id": "standard-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-bar-002"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orderId": "1407443233107-05",
+    "creationDate": "2024-01-18T11:20:35.000Z",
+    "invoicedDate": "2024-01-19T15:10:25.000Z",
+    "status": "invoiced",
+    "origin": "Marketplace",
+    "totalValue": 234500,
+    "items": [
+      {
+        "id": "ITM-005-CAR-2024"
+      }
+    ],
+    "shippingData": {
+      "city": "Cartagena"
+    },
+    "logisticsInfo": [
+      {
+        "selectedSla": "express-delivery",
+        "matchedWarehouseId": "warehouse-car-001",
+        "availableSlas": [
+          {
+            "id": "express-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-car-001"
+              }
+            ]
+          },
+          {
+            "id": "standard-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-car-002"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orderId": "1407443233108-06",
+    "creationDate": "2024-01-25T14:30:15.000Z",
+    "invoicedDate": "2024-01-26T10:45:30.000Z",
+    "status": "invoiced",
+    "origin": "Fullfillment",
+    "totalValue": 98750,
+    "items": [
+      {
+        "id": "ITM-006-BOG-2024"
+      }
+    ],
+    "shippingData": {
+      "city": "Bogotá"
+    },
+    "logisticsInfo": [
+      {
+        "selectedSla": "standard-delivery",
+        "matchedWarehouseId": "warehouse-bog-001",
+        "availableSlas": [
+          {
+            "id": "express-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-bog-001"
+              }
+            ]
+          },
+          {
+            "id": "standard-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-bog-002"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orderId": "1407443233109-07",
+    "creationDate": "2024-01-08T09:15:40.000Z",
+    "invoicedDate": "2024-01-09T13:30:55.000Z",
+    "status": "invoiced",
+    "origin": "Marketplace",
+    "totalValue": 187630,
+    "items": [
+      {
+        "id": "ITM-007-BUC-2024"
+      }
+    ],
+    "shippingData": {
+      "city": "Bucaramanga"
+    },
+    "logisticsInfo": [
+      {
+        "selectedSla": "express-delivery",
+        "matchedWarehouseId": "warehouse-buc-001",
+        "availableSlas": [
+          {
+            "id": "express-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-buc-001"
+              }
+            ]
+          },
+          {
+            "id": "standard-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-buc-002"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orderId": "1407443233110-08",
+    "creationDate": "2024-01-22T16:45:20.000Z",
+    "invoicedDate": "2024-01-23T12:15:10.000Z",
+    "status": "invoiced",
+    "origin": "Marketplace",
+    "totalValue": 76540,
+    "items": [
+      {
+        "id": "ITM-008-SMA-2024"
+      }
+    ],
+    "shippingData": {
+      "city": "Santa Marta"
+    },
+    "logisticsInfo": [
+      {
+        "selectedSla": "standard-delivery",
+        "matchedWarehouseId": "warehouse-sma-001",
+        "availableSlas": [
+          {
+            "id": "express-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-sma-001"
+              }
+            ]
+          },
+          {
+            "id": "standard-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-sma-002"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orderId": "1407443233111-09",
+    "creationDate": "2024-01-14T12:20:30.000Z",
+    "invoicedDate": "2024-01-15T08:40:15.000Z",
+    "status": "invoiced",
+    "origin": "Fullfillment",
+    "totalValue": 145890,
+    "items": [
+      {
+        "id": "ITM-009-PER-2024"
+      }
+    ],
+    "shippingData": {
+      "city": "Pereira"
+    },
+    "logisticsInfo": [
+      {
+        "selectedSla": "express-delivery",
+        "matchedWarehouseId": "warehouse-per-001",
+        "availableSlas": [
+          {
+            "id": "express-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-per-001"
+              }
+            ]
+          },
+          {
+            "id": "standard-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-per-002"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orderId": "1407443233112-10",
+    "creationDate": "2024-01-30T17:35:45.000Z",
+    "invoicedDate": "2024-01-31T11:20:30.000Z",
+    "status": "invoiced",
+    "origin": "Marketplace",
+    "totalValue": 213450,
+    "items": [
+      {
+        "id": "ITM-010-MAN-2024"
+      }
+    ],
+    "shippingData": {
+      "city": "Manizales"
+    },
+    "logisticsInfo": [
+      {
+        "selectedSla": "standard-delivery",
+        "matchedWarehouseId": "warehouse-man-001",
+        "availableSlas": [
+          {
+            "id": "express-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-man-001"
+              }
+            ]
+          },
+          {
+            "id": "standard-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-man-002"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orderId": "1407443233113-11",
+    "creationDate": "2024-01-11T10:50:25.000Z",
+    "invoicedDate": "2024-01-12T14:25:40.000Z",
+    "status": "invoiced",
+    "origin": "Marketplace",
+    "totalValue": 95670,
+    "items": [
+      {
+        "id": "ITM-011-MED-2024"
+      }
+    ],
+    "shippingData": {
+      "city": "Medellín"
+    },
+    "logisticsInfo": [
+      {
+        "selectedSla": "express-delivery",
+        "matchedWarehouseId": "warehouse-med-001",
+        "availableSlas": [
+          {
+            "id": "express-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-med-001"
+              }
+            ]
+          },
+          {
+            "id": "standard-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-med-002"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orderId": "1407443233114-12",
+    "creationDate": "2024-01-27T15:10:20.000Z",
+    "invoicedDate": "2024-01-28T09:35:15.000Z",
+    "status": "invoiced",
+    "origin": "Fullfillment",
+    "totalValue": 167890,
+    "items": [
+      {
+        "id": "ITM-012-IBA-2024"
+      }
+    ],
+    "shippingData": {
+      "city": "Ibagué"
+    },
+    "logisticsInfo": [
+      {
+        "selectedSla": "standard-delivery",
+        "matchedWarehouseId": "warehouse-iba-001",
+        "availableSlas": [
+          {
+            "id": "express-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-iba-001"
+              }
+            ]
+          },
+          {
+            "id": "standard-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-iba-002"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orderId": "1407443233115-13",
+    "creationDate": "2024-01-09T13:25:35.000Z",
+    "invoicedDate": "2024-01-10T16:45:20.000Z",
+    "status": "invoiced",
+    "origin": "Marketplace",
+    "totalValue": 87430,
+    "items": [
+      {
+        "id": "ITM-013-CUC-2024"
+      }
+    ],
+    "shippingData": {
+      "city": "Cúcuta"
+    },
+    "logisticsInfo": [
+      {
+        "selectedSla": "express-delivery",
+        "matchedWarehouseId": "warehouse-cuc-001",
+        "availableSlas": [
+          {
+            "id": "express-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-cuc-001"
+              }
+            ]
+          },
+          {
+            "id": "standard-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-cuc-002"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orderId": "1407443233116-14",
+    "creationDate": "2024-01-19T11:40:15.000Z",
+    "invoicedDate": "2024-01-20T14:55:30.000Z",
+    "status": "invoiced",
+    "origin": "Marketplace",
+    "totalValue": 198760,
+    "items": [
+      {
+        "id": "ITM-014-VIL-2024"
+      }
+    ],
+    "shippingData": {
+      "city": "Villavicencio"
+    },
+    "logisticsInfo": [
+      {
+        "selectedSla": "standard-delivery",
+        "matchedWarehouseId": "warehouse-vil-001",
+        "availableSlas": [
+          {
+            "id": "express-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-vil-001"
+              }
+            ]
+          },
+          {
+            "id": "standard-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-vil-002"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orderId": "1407443233117-15",
+    "creationDate": "2024-01-16T08:15:50.000Z",
+    "invoicedDate": "2024-01-17T12:30:25.000Z",
+    "status": "invoiced",
+    "origin": "Fullfillment",
+    "totalValue": 134590,
+    "items": [
+      {
+        "id": "ITM-015-PAS-2024"
+      }
+    ],
+    "shippingData": {
+      "city": "Pasto"
+    },
+    "logisticsInfo": [
+      {
+        "selectedSla": "express-delivery",
+        "matchedWarehouseId": "warehouse-pas-001",
+        "availableSlas": [
+          {
+            "id": "express-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-pas-001"
+              }
+            ]
+          },
+          {
+            "id": "standard-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-pas-002"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orderId": "1407443233118-16",
+    "creationDate": "2024-01-29T14:55:10.000Z",
+    "invoicedDate": "2024-01-30T10:20:45.000Z",
+    "status": "invoiced",
+    "origin": "Marketplace",
+    "totalValue": 178920,
+    "items": [
+      {
+        "id": "ITM-016-BOG-2024"
+      }
+    ],
+    "shippingData": {
+      "city": "Bogotá"
+    },
+    "logisticsInfo": [
+      {
+        "selectedSla": "express-delivery",
+        "matchedWarehouseId": "warehouse-bog-002",
+        "availableSlas": [
+          {
+            "id": "express-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-bog-001"
+              }
+            ]
+          },
+          {
+            "id": "standard-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-bog-002"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orderId": "1407443233119-17",
+    "creationDate": "2024-01-07T16:30:35.000Z",
+    "invoicedDate": "2024-01-08T13:45:20.000Z",
+    "status": "invoiced",
+    "origin": "Marketplace",
+    "totalValue": 112340,
+    "items": [
+      {
+        "id": "ITM-017-MON-2024"
+      }
+    ],
+    "shippingData": {
+      "city": "Montería"
+    },
+    "logisticsInfo": [
+      {
+        "selectedSla": "standard-delivery",
+        "matchedWarehouseId": "warehouse-mon-001",
+        "availableSlas": [
+          {
+            "id": "express-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-mon-001"
+              }
+            ]
+          },
+          {
+            "id": "standard-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-mon-002"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orderId": "1407443233120-18",
+    "creationDate": "2024-01-23T12:45:25.000Z",
+    "invoicedDate": "2024-01-24T15:10:40.000Z",
+    "status": "invoiced",
+    "origin": "Fullfillment",
+    "totalValue": 256780,
+    "items": [
+      {
+        "id": "ITM-018-NEI-2024"
+      }
+    ],
+    "shippingData": {
+      "city": "Neiva"
+    },
+    "logisticsInfo": [
+      {
+        "selectedSla": "express-delivery",
+        "matchedWarehouseId": "warehouse-nei-001",
+        "availableSlas": [
+          {
+            "id": "express-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-nei-001"
+              }
+            ]
+          },
+          {
+            "id": "standard-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-nei-002"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orderId": "1407443233121-19",
+    "creationDate": "2024-01-13T09:20:15.000Z",
+    "invoicedDate": "2024-01-14T11:35:30.000Z",
+    "status": "invoiced",
+    "origin": "Marketplace",
+    "totalValue": 89670,
+    "items": [
+      {
+        "id": "ITM-019-ARM-2024"
+      }
+    ],
+    "shippingData": {
+      "city": "Armenia"
+    },
+    "logisticsInfo": [
+      {
+        "selectedSla": "standard-delivery",
+        "matchedWarehouseId": "warehouse-arm-001",
+        "availableSlas": [
+          {
+            "id": "express-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-arm-001"
+              }
+            ]
+          },
+          {
+            "id": "standard-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-arm-002"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orderId": "1407443233122-20",
+    "creationDate": "2024-01-26T15:35:20.000Z",
+    "invoicedDate": "2024-01-27T12:50:15.000Z",
+    "status": "invoiced",
+    "origin": "Marketplace",
+    "totalValue": 145320,
+    "items": [
+      {
+        "id": "ITM-020-VAL-2024"
+      }
+    ],
+    "shippingData": {
+      "city": "Valledupar"
+    },
+    "logisticsInfo": [
+      {
+        "selectedSla": "express-delivery",
+        "matchedWarehouseId": "warehouse-val-001",
+        "availableSlas": [
+          {
+            "id": "express-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-val-001"
+              }
+            ]
+          },
+          {
+            "id": "standard-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-val-002"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orderId": "1407443233123-21",
+    "creationDate": "2024-01-10T11:25:40.000Z",
+    "invoicedDate": "2024-01-11T14:40:55.000Z",
+    "status": "invoiced",
+    "origin": "Fullfillment",
+    "totalValue": 187450,
+    "items": [
+      {
+        "id": "ITM-021-CAL-2024"
+      }
+    ],
+    "shippingData": {
+      "city": "Cali"
+    },
+    "logisticsInfo": [
+      {
+        "selectedSla": "standard-delivery",
+        "matchedWarehouseId": "warehouse-cal-001",
+        "availableSlas": [
+          {
+            "id": "express-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-cal-001"
+              }
+            ]
+          },
+          {
+            "id": "standard-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-cal-002"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orderId": "1407443233124-22",
+    "creationDate": "2024-01-21T13:50:30.000Z",
+    "invoicedDate": "2024-01-22T16:15:45.000Z",
+    "status": "invoiced",
+    "origin": "Marketplace",
+    "totalValue": 78920,
+    "items": [
+      {
+        "id": "ITM-022-SIN-2024"
+      }
+    ],
+    "shippingData": {
+      "city": "Sincelejo"
+    },
+    "logisticsInfo": [
+      {
+        "selectedSla": "express-delivery",
+        "matchedWarehouseId": "warehouse-sin-001",
+        "availableSlas": [
+          {
+            "id": "express-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-sin-001"
+              }
+            ]
+          },
+          {
+            "id": "standard-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-sin-002"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orderId": "1407443233125-23",
+    "creationDate": "2024-01-17T10:15:25.000Z",
+    "invoicedDate": "2024-01-18T13:30:40.000Z",
+    "status": "invoiced",
+    "origin": "Marketplace",
+    "totalValue": 234680,
+    "items": [
+      {
+        "id": "ITM-023-POP-2024"
+      }
+    ],
+    "shippingData": {
+      "city": "Popayán"
+    },
+    "logisticsInfo": [
+      {
+        "selectedSla": "standard-delivery",
+        "matchedWarehouseId": "warehouse-pop-001",
+        "availableSlas": [
+          {
+            "id": "express-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-pop-001"
+              }
+            ]
+          },
+          {
+            "id": "standard-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-pop-002"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orderId": "1407443233126-24",
+    "creationDate": "2024-01-28T16:40:15.000Z",
+    "invoicedDate": "2024-01-29T12:25:30.000Z",
+    "status": "invoiced",
+    "origin": "Fullfillment",
+    "totalValue": 156890,
+    "items": [
+      {
+        "id": "ITM-024-MED-2024"
+      }
+    ],
+    "shippingData": {
+      "city": "Medellín"
+    },
+    "logisticsInfo": [
+      {
+        "selectedSla": "express-delivery",
+        "matchedWarehouseId": "warehouse-med-002",
+        "availableSlas": [
+          {
+            "id": "express-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-med-001"
+              }
+            ]
+          },
+          {
+            "id": "standard-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-med-002"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orderId": "1407443233127-25",
+    "creationDate": "2024-01-06T14:20:35.000Z",
+    "invoicedDate": "2024-01-07T17:45:50.000Z",
+    "status": "invoiced",
+    "origin": "Marketplace",
+    "totalValue": 92340,
+    "items": [
+      {
+        "id": "ITM-025-TUN-2024"
+      }
+    ],
+    "shippingData": {
+      "city": "Tunja"
+    },
+    "logisticsInfo": [
+      {
+        "selectedSla": "standard-delivery",
+        "matchedWarehouseId": "warehouse-tun-001",
+        "availableSlas": [
+          {
+            "id": "express-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-tun-001"
+              }
+            ]
+          },
+          {
+            "id": "standard-delivery",
+            "deliveryIds": [
+              {
+                "warehouseId": "warehouse-tun-002"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
